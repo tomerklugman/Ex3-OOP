@@ -41,7 +41,7 @@ numpy
 pandas
 ----
 ## how to run
-open Ex2.py file and change run("data/A5.json") to A0-A5 or T0 and in interperter
+open Ex3.py file and change run("data/A5.json") to A0-A5 or T0 and in interperter
 ```sh
 run("data/A5.json") 
 ```
