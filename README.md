@@ -33,12 +33,16 @@ https://matplotlib.org/stable/tutorials/introductory/pyplot.html
 ### UML
 ![alt text](https://i.imgur.com/NuPSZvk.jpeg)
 ----
-----
 ## requirements
+
 required imports are:
+
 matplotlib
+
 numpy
+
 pandas
+
 ----
 ## how to run
 open Ex3.py file and change run("data/A5.json") to A0-A5 or T0 and in interperter
